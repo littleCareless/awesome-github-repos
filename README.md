@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [PowerShell](#powershell)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Go](#go)
@@ -15,7 +16,6 @@
 *   [Rust](#rust)
 *   [C++](#c)
 *   [Shell](#shell)
-*   [Swift](#swift)
 *   [C#](#c-1)
 *   [Dart](#dart)
 *   [Roff](#roff)
@@ -42,6 +42,270 @@
 *   [Vim Script](#vim-script)
 *   [Smarty](#smarty)
 *   [V](#v)
+
+## Swift
+
+*   [EnjoyWT/ocrl](https://github.com/EnjoyWT/ocrl) - 一个使用 macOS 系统自带库的 ocr 服务.
+
+*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
+
+## miscellaneous
+
+*   [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - LastKode or AgentKode is better?
+
+*   [knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang](https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang) - 讨贼王云鹤檄文
+
+*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+
+*   [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+
+*   [Codium-ai/codium-code-examples](https://github.com/Codium-ai/codium-code-examples) -
+
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+
+*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+
+*   [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [jahnli/awesome-flutter-plugins](https://github.com/jahnli/awesome-flutter-plugins) - 🔥🔥 收集好用的Flutter插件以便更效率的开发
+
+*   [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [iamouyang21/vue3-compiler](https://github.com/iamouyang21/vue3-compiler) - 「vue3编译原理揭秘」 一本初中级前端都能看得懂的vue3源码分析书
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+
+*   [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化扩展
+
+*   [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
+
+*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
+
+*   [evestorm/front-end-interview](https://github.com/evestorm/front-end-interview) - ⭐️⭐️ 2025 前端面试题 + 知识库汇总，你值得拥有～ 点击下方链接查看最新知识点和面试题～～⭐️⭐️
+
+*   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
+
+*   [stylelint/awesome-stylelint](https://github.com/stylelint/awesome-stylelint) - A list of awesome Stylelint plugins, configs, etc.
+
+*   [pwstrick/daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）
+
+*   [mqyqingfeng/learn-typescript](https://github.com/mqyqingfeng/learn-typescript) - 可能是中国最好的 TypeScript 从入门到进阶系统教程
+
+*   [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
+
+*   [shfshanyue/fp-jargon-zh](https://github.com/shfshanyue/fp-jargon-zh) - 函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon
+
+*   [jeansfish/RFC6750.zh-cn](https://github.com/jeansfish/RFC6750.zh-cn) - A translation of simplified chinese for RFC 6750 - The OAuth 2.0 Authorization Framework: Bearer Token Usage. It's a companion specification of RFC 6749 - The OAuth 2.0 Authorization Framework. RFC 6750-OAuth 2.0授权框架：不记名令牌用法-简体中文翻译。RFC 6750是RFC 6749（OAuth 2.0授权框架）的配套规范。
+
+*   [KieSun/cli](https://github.com/KieSun/cli) - 吃透前端工程化：工程脚手架研发
+
+*   [course-dasheng/fullstack](https://github.com/course-dasheng/fullstack) - 全栈项目开发文档
+
+*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling) - 非常时期囤货手册
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
+
+*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+
+*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
+
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+*   [mileszhang2016/The-Art-of-Code](https://github.com/mileszhang2016/The-Art-of-Code) - 《代码的艺术》内容简介及问答
+
+*   [huaize2020/awesome-frontend](https://github.com/huaize2020/awesome-frontend) - 前端开发资源大全中文版。An awesome front end develop packages and resources
+
+*   [huaize2020/awesome-koa](https://github.com/huaize2020/awesome-koa) - Koa 资源大全中文版。An awesome Koa packages and resources
+
+*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
+
+*   [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
+
+*   [KieSun/web-infra](https://github.com/KieSun/web-infra) - 前端工程化系列
+
+*   [Semporia/Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置
+
+*   [janlaywong/output-build-info-webpack-plugin](https://github.com/janlaywong/output-build-info-webpack-plugin) - 输出webpack打包环境信息（例如打包时间，分支，Git相关信息等）
+
+*   [janlaywong/bundleno](https://github.com/janlaywong/bundleno) - Component is Server (组件即服务)。与技术栈无关的 Server Components
+
+*   [xubaifuCode/CN.Remote.Jobs](https://github.com/xubaifuCode/CN.Remote.Jobs) - 汇集在中国地区支持全远程/混合远程办公的公司。
+
+*   [thx/iconfont-plus](https://github.com/thx/iconfont-plus) - 新版iconfont仓库，代码暂时不具备开源的条件。主要作为issues的仓库，不排除以后直接把代码在此开源。
+
+*   [phodal/modernization](https://github.com/phodal/modernization) - summary for code analysis and auto-refactor。《代码分析与自动化重构》  - 如何自己动手设计源码解析、构建代码的代码模型、可视化代码、以及如何进行自动化的重构和守护。
+
+*   [ChelesteWang/remote-components](https://github.com/ChelesteWang/remote-components) - 学习设计一个远程组件系统
+
+*   [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
+
+*   [zhmushan/TangPing](https://github.com/zhmushan/TangPing) - Tang ping (Chinese: 躺平) is a lifestyle and social protest movement in China. It is a rejection of societal pressures to overwork, such as in the 996 working hour system, which is often regarded as a rat race with ever diminishing returns. Those who participate in tang ping instead choose to "lie down flat and get over the beatings" via a low-desire, more indifferent attitude towards life.
+
+*   [sivan/javascript-style-guide](https://github.com/sivan/javascript-style-guide) - Airbnb JavaScript Style Guide 中文版
+
+*   [xudafeng/electron-modules](https://github.com/xudafeng/electron-modules) - :electron: 🚀🚀🚀 一些实用的 Electron 模块汇总，持续增加中...
+
+*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+
+*   [EthanYuan/Rust-Study-Resource](https://github.com/EthanYuan/Rust-Study-Resource) - Rust学习资源收集。
+
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+
+*   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+
+*   [JohnZhaoXiaoHu/PPTist](https://github.com/JohnZhaoXiaoHu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
+
+*   [project-scaffold/vue2-vite-esbuild-template](https://github.com/project-scaffold/vue2-vite-esbuild-template) - 使用 vite esbuild 等现代打包工具， 提升构建效率
+
+*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+
+*   [JohnZhaoXiaoHu/douyin-autojs](https://github.com/JohnZhaoXiaoHu/douyin-autojs) - 抖音自动关注，自动取关，自动养号 autojs 脚本
+
+*   [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
+
+*   [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+
+*   [aliyun-node/Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) - Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
+
+*   [JohnZhaoXiaoHu/Demo.Jwt](https://github.com/JohnZhaoXiaoHu/Demo.Jwt) - Jwt的使用Demo
+
+*   [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
+
+*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+
+*   [naive-ui/awesome-naive](https://github.com/naive-ui/awesome-naive) - A curated list of awesome things related to Naive UI
+
+*   [shengxinjing/self-employed-workbook](https://github.com/shengxinjing/self-employed-workbook) - 写给自己的程序员自由职业工作手册
+
+*   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
+
+*   [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
+
+*   [07akioni/component-tree-data-share](https://github.com/07akioni/component-tree-data-share) - 关于组件库树形数据的一次分享
+
+*   [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+
+*   [hkc452/slamdunk-the-vue3](https://github.com/hkc452/slamdunk-the-vue3) - vue3 源码全面解读
+
+*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
+
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+*   [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
+
+*   [JowayYoung/bruce-cli](https://github.com/JowayYoung/bruce-cli) - A JS/React Application Automation Build Scaffold With Zero Configuration Out Of The Box
+
+*   [BetaSu/react53-doc](https://github.com/BetaSu/react53-doc) - 五年React 三年模拟
+
+*   [shashank88/system\_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+
+*   [PDKSophia/visResumeMook](https://github.com/PDKSophia/visResumeMook) - 掘金小册-React + TS + Electron 打造可视化在线简历平台
+
+*   [modernizing/awesome-modernization](https://github.com/modernizing/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
+
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+
+*   [JohnZhaoXiaoHu/GitHub-Chinese-Top-Charts](https://github.com/JohnZhaoXiaoHu/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+
+*   [JohnZhaoXiaoHu/vue-douyin](https://github.com/JohnZhaoXiaoHu/vue-douyin) - 基于Vue.js的模仿抖音的Web App
+
+*   [louzhedong/blog](https://github.com/louzhedong/blog) - 前端基础，深入以及算法数据结构
+
+*   [sorrycc/awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 🎉 整理我平时关注的前端库。
+
+*   [woai3c/front-end-specification](https://github.com/woai3c/front-end-specification) - 前端规范
+
+*   [footsiecn/reactkit](https://github.com/footsiecn/reactkit) - React meta framwork with Concurrent mode  SSR out of box.
+
+*   [theanarkh/understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理
+
+*   [ccloli/developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2020 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2020
+
+*   [vuejs/rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
+
+*   [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
+
+*   [biaochenxuying/vue-family-mindmap](https://github.com/biaochenxuying/vue-family-mindmap) - 用一张思维导图总结了 Vue | Vue-Router | Vuex 源码与架构要点。
+
+*   [BWrong/TypeScript](https://github.com/BWrong/TypeScript) - TypeScript使用手册（中文版）翻译。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
+
+*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+
+*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
+
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+
+*   [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
+
+*   [wuhaohao1234/getting-real](https://github.com/wuhaohao1234/getting-real) - getting-real中文翻译，一套软件开发的核心思想
+
+*   [acodercat/function-call-principle](https://github.com/acodercat/function-call-principle) - 一篇关于函数调用原理的文章，通过大量的示意图由浅入深分析了函数完整的生命周期。
+
+*   [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
+
+*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程
+
+*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+*   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+
+*   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
+
+*   [sl1673495/frontend-roadmap](https://github.com/sl1673495/frontend-roadmap) - 写给大家的高级前端进阶路线，JavaScript 基础，算法和数据结构，Vue 进阶到源码，React 进阶，TypeScript 进阶、性能优化以及工程架构实战，这篇文章涵盖你入行前端前几年要学习的所有精选路线。
 
 ## TypeScript
 
@@ -155,7 +419,7 @@
 
 *   [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 
-*   [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) - 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code built-in AI. 🌍 Multi-language support (EN/CN/JP/KR/Other). 📊 Auto-generate weekly reports.
+*   [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) - Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code built-in AI. 🌍 Multi-language support (EN/CN/JP/KR/Other). 📊 Auto-generate weekly reports.
 
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -677,7 +941,7 @@
 
 *   [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 
-*   [yisar/bac](https://github.com/yisar/bac) - Blazing Atom Compiler
+*   [yisar/asta](https://github.com/yisar/asta) - Resumable SSR framework
 
 *   [miracle90/monitor](https://github.com/miracle90/monitor) - 前端监控体系搭建（错误、异常、白屏、性能监控、卡顿、pv等，接入日志、告警系统）
 
@@ -1073,8 +1337,6 @@
 
 *   [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 
-*   [Agoric/realms-shim](https://github.com/Agoric/realms-shim) - Spec-compliant shim for Realms TC39 Proposal
-
 ## Vue
 
 *   [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown). Working in Progress
@@ -1234,252 +1496,6 @@
 *   [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
 
 *   [liyuechun/JavaScript30-liyuechun](https://github.com/liyuechun/JavaScript30-liyuechun) - 每天一个JavaScript项目挑战，30天玩转JavaScript,免费视频：http://www.kongyixueyuan.com
-
-## miscellaneous
-
-*   [knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang](https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang) - 讨贼王云鹤檄文
-
-*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
-
-*   [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
-*   [Codium-ai/codium-code-examples](https://github.com/Codium-ai/codium-code-examples) -
-
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-
-*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
-
-*   [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [jahnli/awesome-flutter-plugins](https://github.com/jahnli/awesome-flutter-plugins) - 🔥🔥 收集好用的Flutter插件以便更效率的开发
-
-*   [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [iamouyang21/vue3-compiler](https://github.com/iamouyang21/vue3-compiler) - 「vue3编译原理揭秘」 一本初中级前端都能看得懂的vue3源码分析书
-
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
-
-*   [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化扩展
-
-*   [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
-
-*   [hax/heshijun\_v\_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
-
-*   [evestorm/front-end-interview](https://github.com/evestorm/front-end-interview) - ⭐️⭐️ 2025 前端面试题 + 知识库汇总，你值得拥有～ 点击下方链接查看最新知识点和面试题～～⭐️⭐️
-
-*   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-
-*   [stylelint/awesome-stylelint](https://github.com/stylelint/awesome-stylelint) - A list of awesome Stylelint plugins, configs, etc.
-
-*   [pwstrick/daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）
-
-*   [mqyqingfeng/learn-typescript](https://github.com/mqyqingfeng/learn-typescript) - 可能是中国最好的 TypeScript 从入门到进阶系统教程
-
-*   [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
-
-*   [shfshanyue/fp-jargon-zh](https://github.com/shfshanyue/fp-jargon-zh) - 函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon
-
-*   [jeansfish/RFC6750.zh-cn](https://github.com/jeansfish/RFC6750.zh-cn) - A translation of simplified chinese for RFC 6750 - The OAuth 2.0 Authorization Framework: Bearer Token Usage. It's a companion specification of RFC 6749 - The OAuth 2.0 Authorization Framework. RFC 6750-OAuth 2.0授权框架：不记名令牌用法-简体中文翻译。RFC 6750是RFC 6749（OAuth 2.0授权框架）的配套规范。
-
-*   [KieSun/cli](https://github.com/KieSun/cli) - 吃透前端工程化：工程脚手架研发
-
-*   [course-dasheng/fullstack](https://github.com/course-dasheng/fullstack) - 全栈项目开发文档
-
-*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling) - 非常时期囤货手册
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-
-*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-
-*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
-
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-*   [mileszhang2016/The-Art-of-Code](https://github.com/mileszhang2016/The-Art-of-Code) - 《代码的艺术》内容简介及问答
-
-*   [huaize2020/awesome-frontend](https://github.com/huaize2020/awesome-frontend) - 前端开发资源大全中文版。An awesome front end develop packages and resources
-
-*   [huaize2020/awesome-koa](https://github.com/huaize2020/awesome-koa) - Koa 资源大全中文版。An awesome Koa packages and resources
-
-*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-
-*   [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
-
-*   [KieSun/web-infra](https://github.com/KieSun/web-infra) - 前端工程化系列
-
-*   [Semporia/Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置
-
-*   [janlaywong/output-build-info-webpack-plugin](https://github.com/janlaywong/output-build-info-webpack-plugin) - 输出webpack打包环境信息（例如打包时间，分支，Git相关信息等）
-
-*   [janlaywong/bundleno](https://github.com/janlaywong/bundleno) - Component is Server (组件即服务)。与技术栈无关的 Server Components
-
-*   [xubaifuCode/CN.Remote.Jobs](https://github.com/xubaifuCode/CN.Remote.Jobs) - 汇集在中国地区支持全远程/混合远程办公的公司。
-
-*   [thx/iconfont-plus](https://github.com/thx/iconfont-plus) - 新版iconfont仓库，代码暂时不具备开源的条件。主要作为issues的仓库，不排除以后直接把代码在此开源。
-
-*   [phodal/modernization](https://github.com/phodal/modernization) - summary for code analysis and auto-refactor。《代码分析与自动化重构》  - 如何自己动手设计源码解析、构建代码的代码模型、可视化代码、以及如何进行自动化的重构和守护。
-
-*   [ChelesteWang/remote-components](https://github.com/ChelesteWang/remote-components) - 学习设计一个远程组件系统
-
-*   [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
-
-*   [zhmushan/TangPing](https://github.com/zhmushan/TangPing) - Tang ping (Chinese: 躺平) is a lifestyle and social protest movement in China. It is a rejection of societal pressures to overwork, such as in the 996 working hour system, which is often regarded as a rat race with ever diminishing returns. Those who participate in tang ping instead choose to "lie down flat and get over the beatings" via a low-desire, more indifferent attitude towards life.
-
-*   [sivan/javascript-style-guide](https://github.com/sivan/javascript-style-guide) - Airbnb JavaScript Style Guide 中文版
-
-*   [xudafeng/electron-modules](https://github.com/xudafeng/electron-modules) - :electron: 🚀🚀🚀 一些实用的 Electron 模块汇总，持续增加中...
-
-*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-
-*   [EthanYuan/Rust-Study-Resource](https://github.com/EthanYuan/Rust-Study-Resource) - Rust学习资源收集。
-
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-
-*   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-
-*   [JohnZhaoXiaoHu/PPTist](https://github.com/JohnZhaoXiaoHu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
-
-*   [project-scaffold/vue2-vite-esbuild-template](https://github.com/project-scaffold/vue2-vite-esbuild-template) - 使用 vite esbuild 等现代打包工具， 提升构建效率
-
-*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-
-*   [JohnZhaoXiaoHu/douyin-autojs](https://github.com/JohnZhaoXiaoHu/douyin-autojs) - 抖音自动关注，自动取关，自动养号 autojs 脚本
-
-*   [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
-
-*   [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-
-*   [aliyun-node/Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) - Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
-
-*   [JohnZhaoXiaoHu/Demo.Jwt](https://github.com/JohnZhaoXiaoHu/Demo.Jwt) - Jwt的使用Demo
-
-*   [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
-
-*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
-*   [naive-ui/awesome-naive](https://github.com/naive-ui/awesome-naive) - A curated list of awesome things related to Naive UI
-
-*   [shengxinjing/self-employed-workbook](https://github.com/shengxinjing/self-employed-workbook) - 写给自己的程序员自由职业工作手册
-
-*   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
-
-*   [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
-
-*   [07akioni/component-tree-data-share](https://github.com/07akioni/component-tree-data-share) - 关于组件库树形数据的一次分享
-
-*   [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
-
-*   [hkc452/slamdunk-the-vue3](https://github.com/hkc452/slamdunk-the-vue3) - vue3 源码全面解读
-
-*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
-
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-*   [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选
-
-*   [JowayYoung/bruce-cli](https://github.com/JowayYoung/bruce-cli) - A JS/React Application Automation Build Scaffold With Zero Configuration Out Of The Box
-
-*   [BetaSu/react53-doc](https://github.com/BetaSu/react53-doc) - 五年React 三年模拟
-
-*   [shashank88/system\_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-
-*   [PDKSophia/visResumeMook](https://github.com/PDKSophia/visResumeMook) - 掘金小册-React + TS + Electron 打造可视化在线简历平台
-
-*   [modernizing/awesome-modernization](https://github.com/modernizing/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
-
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-
-*   [JohnZhaoXiaoHu/GitHub-Chinese-Top-Charts](https://github.com/JohnZhaoXiaoHu/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-
-*   [JohnZhaoXiaoHu/vue-douyin](https://github.com/JohnZhaoXiaoHu/vue-douyin) - 基于Vue.js的模仿抖音的Web App
-
-*   [louzhedong/blog](https://github.com/louzhedong/blog) - 前端基础，深入以及算法数据结构
-
-*   [sorrycc/awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 🎉 整理我平时关注的前端库。
-
-*   [woai3c/front-end-specification](https://github.com/woai3c/front-end-specification) - 前端规范
-
-*   [footsiecn/reactkit](https://github.com/footsiecn/reactkit) - React meta framwork with Concurrent mode  SSR out of box.
-
-*   [theanarkh/understand-nodejs](https://github.com/theanarkh/understand-nodejs) - 通过源码分析nodejs原理
-
-*   [ccloli/developer-roadmap-zh-CN](https://github.com/ccloli/developer-roadmap-zh-CN) - 在 2020 年成为 Web 开发工程师之路线图 | Roadmap to becoming a web developer in 2020
-
-*   [vuejs/rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
-
-*   [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
-
-*   [biaochenxuying/vue-family-mindmap](https://github.com/biaochenxuying/vue-family-mindmap) - 用一张思维导图总结了 Vue | Vue-Router | Vuex 源码与架构要点。
-
-*   [BWrong/TypeScript](https://github.com/BWrong/TypeScript) - TypeScript使用手册（中文版）翻译。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-
-*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-
-*   [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
-
-*   [wuhaohao1234/getting-real](https://github.com/wuhaohao1234/getting-real) - getting-real中文翻译，一套软件开发的核心思想
-
-*   [acodercat/function-call-principle](https://github.com/acodercat/function-call-principle) - 一篇关于函数调用原理的文章，通过大量的示意图由浅入深分析了函数完整的生命周期。
-
-*   [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
-
-*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 这是一个成为更好的Java程序员的系列教程
-
-*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
-
-*   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-
-*   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
-
-*   [sl1673495/frontend-roadmap](https://github.com/sl1673495/frontend-roadmap) - 写给大家的高级前端进阶路线，JavaScript 基础，算法和数据结构，Vue 进阶到源码，React 进阶，TypeScript 进阶、性能优化以及工程架构实战，这篇文章涵盖你入行前端前几年要学习的所有精选路线。
-
-*   [shengxinjing/react-tutorial](https://github.com/shengxinjing/react-tutorial) - 基于 umi 的 Ant Design 实战教程配套代码 https://www.yuque.com/ant-design/course
 
 ## Python
 
@@ -1878,22 +1894,6 @@
 *   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
 
 *   [IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) -        多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900acs、Linksys Wrt3200acm、Linksys Wrt32x——（QQ群：1130190364）
-
-## Swift
-
-*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
 ## C\#
 
