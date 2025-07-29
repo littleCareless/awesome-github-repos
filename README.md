@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [weiwill88/bank-statement-analysis](https://github.com/weiwill88/bank-statement-analysis) -
+
 *   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 
 *   [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -155,7 +157,7 @@
 
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
-*   [THUDM/GLM-Edge](https://github.com/THUDM/GLM-Edge) - GLM Series Edge Models
+*   [zai-org/GLM-Edge](https://github.com/zai-org/GLM-Edge) - GLM Series Edge Models
 
 *   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
@@ -787,6 +789,8 @@
 
 *   [rubenspgcavalcante/webpack-chrome-extension-reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 🔥 Hot reloading while developing Chrome extensions with webpack 🔥
 
+*   [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
+
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -940,8 +944,6 @@
 *   [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 
 *   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 
 ## Swift
 
@@ -1724,8 +1726,6 @@
 *   [tc39/proposal-extensions](https://github.com/tc39/proposal-extensions) - Extensions proposal for ECMAScript
 
 *   [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
-
-*   [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
 
 *   [king-hcj/king-hcj.github.io](https://github.com/king-hcj/king-hcj.github.io) - 前端精华、前端高级进阶、让前端不枯燥的有趣技巧分享。
 
