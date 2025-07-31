@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Python](#python)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
-*   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
@@ -42,6 +42,28 @@
 *   [Vim Script](#vim-script)
 *   [Smarty](#smarty)
 *   [V](#v)
+
+## Swift
+
+*   [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
+
+*   [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app
+
+*   [EnjoyWT/ocrl](https://github.com/EnjoyWT/ocrl) - 一个使用 macOS 系统自带库的 ocr 服务.
+
+*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
 ## Python
 
@@ -945,24 +967,6 @@
 
 *   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 
-## Swift
-
-*   [EnjoyWT/ocrl](https://github.com/EnjoyWT/ocrl) - 一个使用 macOS 系统自带库的 ocr 服务.
-
-*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
-
 ## miscellaneous
 
 *   [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - LastKode or AgentKode is better?
@@ -1204,8 +1208,6 @@
 *   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 
 *   [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-
-*   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
 
 ## JavaScript
 
@@ -1698,8 +1700,6 @@
 *   [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 
 *   [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-
-*   [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
 
 ## PowerShell
 
