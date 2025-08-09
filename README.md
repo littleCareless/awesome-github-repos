@@ -12,7 +12,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Swift](#swift)
 *   [Vue](#vue)
-*   [PowerShell](#powershell)
 *   [Jinja](#jinja)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -972,6 +971,8 @@
 *   [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 
 *   [TencentCloudBase/CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) - 🪐 Instantly generate, deploy, and host your full-stack Web apps, mini-programs, databases, and backend services with AI IDE, launch your ideas at lightning speed 💫
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
@@ -1959,10 +1960,6 @@
 
 *   [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 
-## PowerShell
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
 ## Jinja
 
 *   [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X.
@@ -1993,7 +1990,7 @@
 
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
-*   [yisar/yjc](https://github.com/yisar/yjc) - Yeilding Javascript compiler
+*   [yisar/xjc](https://github.com/yisar/xjc) - Xtreme JavaScript Compiler
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -2171,7 +2168,7 @@
 
 ## PHP
 
-*   [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+*   [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 
 *   [loxi-opensource/luna-swapping](https://github.com/loxi-opensource/luna-swapping) - Luna AI换脸 / AI写真 / AI证件照 / AI高管照 / AI照相馆 / 妙鸭相机同款
 
