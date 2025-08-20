@@ -25,7 +25,6 @@
 *   [Vim Script](#vim-script)
 *   [C++](#c-1)
 *   [TeX](#tex)
-*   [Vim script](#vim-script-1)
 *   [Objective-C](#objective-c)
 *   [Astro](#astro)
 *   [Tree-sitter Query](#tree-sitter-query)
@@ -833,6 +832,8 @@
 
 *   [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas\_tree: Vim undo tree visualizer
 
+*   [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
+
 *   [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 
 *   [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
@@ -854,10 +855,6 @@
 ## TeX
 
 *   [wuzhouhui/awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
-
-## Vim script
-
-*   [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 
 ## Objective-C
 
