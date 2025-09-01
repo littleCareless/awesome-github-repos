@@ -620,7 +620,7 @@
 
 ## Shell
 
-*   [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
+*   [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
 
 *   [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 
