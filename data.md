@@ -260,8 +260,6 @@
 
 *   [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
 *   [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
 
 *   [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
@@ -697,6 +695,8 @@
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 *   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
