@@ -424,7 +424,7 @@
 
 *   [tonngw/macman](https://github.com/tonngw/macman) - 🚀 本项目是一个教你从 0 到 1 配置 Mac 的保姆级教程，包括终端环境、开发环境、效率工具和使用技巧等，持续更新中...
 
-*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
