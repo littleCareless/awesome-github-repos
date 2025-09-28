@@ -6,7 +6,7 @@
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [CSS](#css)
+*   [Dockerfile](#dockerfile)
 *   [Go](#go)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
@@ -27,13 +27,13 @@
 *   [Batchfile](#batchfile)
 *   [Svelte](#svelte)
 *   [Fluent](#fluent)
+*   [CSS](#css)
 *   [SCSS](#scss)
 *   [Java](#java)
 *   [Clojure](#clojure)
 *   [Less](#less)
 *   [Zig](#zig)
 *   [TeX](#tex)
-*   [Dockerfile](#dockerfile)
 *   [Markdown](#markdown)
 *   [Blade](#blade)
 *   [AutoIt](#autoit)
@@ -1420,19 +1420,13 @@
 
 *   [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
-## CSS
+## Dockerfile
 
 *   [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) - WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
 
-*   [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
-*   [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
-
-*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
-
-*   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Go
 
@@ -2212,6 +2206,18 @@
 
 *   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
+## CSS
+
+*   [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+
+*   [mulingyuer/Typecho\_Theme\_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
+
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
+
+*   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
+
+*   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+
 ## SCSS
 
 *   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
@@ -2279,12 +2285,6 @@
 *   [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 
 *   [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
-
-## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Markdown
 
