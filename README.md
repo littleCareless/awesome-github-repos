@@ -44,7 +44,7 @@
 
 ## TypeScript
 
-*   [fish2018/YPrompt](https://github.com/fish2018/YPrompt) - 通过对话挖掘用户需求，并自动生成专业的Prompt
+*   [fish2018/YPrompt](https://github.com/fish2018/YPrompt) - 通过对话挖掘用户需求，并自动生成专业的提示词 https://yprompt.pages.dev
 
 *   [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 
@@ -123,8 +123,6 @@
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
-
-*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -683,6 +681,8 @@
 *   [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
 *   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+
+*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 *   [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 
