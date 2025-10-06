@@ -44,7 +44,7 @@
 
 ## Shell
 
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
 
 *   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta
 
@@ -730,7 +730,7 @@
 
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
-*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
 
 *   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 
@@ -1494,7 +1494,7 @@
 
 *   [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 
-*   [libaxuan/ZtoApi](https://github.com/libaxuan/ZtoApi) - 佛法GLM-4.6 For Kilo CODE、Roo Code低调版本
+*   [libaxuan/ZtoApi](https://github.com/libaxuan/ZtoApi) - 佛法GLM-4.6 For Kilo CODE、Roo Code低调本地127.0.0.1版本
 
 *   [Veloera/Veloera](https://github.com/Veloera/Veloera) -
 
