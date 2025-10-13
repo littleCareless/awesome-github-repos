@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [SCSS](#scss)
@@ -35,6 +35,116 @@
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Roff](#roff)
+
+## TypeScript
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+*   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
+
+*   [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
+
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+
+*   [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+
+*   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+
+*   [carloscuesta/carloscuesta.me](https://github.com/carloscuesta/carloscuesta.me) - The source of my website 🌍
+
+*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+
+*   [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
+
+*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+
+*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+
+*   [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
+
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+
+*   [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card) - 流光卡片API
+
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+
+*   [tonngw/raycast-extensions](https://github.com/tonngw/raycast-extensions) - Everything you need to extend Raycast.
+
+*   [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
+
+*   [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
+
+*   [cronhub/crontab](https://github.com/cronhub/crontab) - ⏰   Cron expression generator
+
+*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
+
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
+*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
+
+*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+
+*   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+
+*   [tisfeng/Raycast-Easydict](https://github.com/tisfeng/Raycast-Easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
+
+*   [roojay/bobplugin-google-translate](https://github.com/roojay/bobplugin-google-translate) -  Bob 的一个Google 翻译插件
+
+*   [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
+
+*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+
+*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+*   [AmruthPillai/ResumeOnTheWeb](https://github.com/AmruthPillai/ResumeOnTheWeb) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
+
+*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
+*   [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
+
+*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
+
+*   [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [zooltd/leetcode2acwing](https://github.com/zooltd/leetcode2acwing) - a Violentmonkey script that redirects you to AcWing solution site from LeetCode problem site
+
+*   [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党零基础转码笔记
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 
 ## miscellaneous
 
@@ -327,116 +437,6 @@
 *   [cosen1024/community](https://github.com/cosen1024/community) - 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
 
 *   [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
-
-*   [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
-
-## TypeScript
-
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-*   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
-
-*   [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
-
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
-
-*   [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-
-*   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-
-*   [carloscuesta/carloscuesta.me](https://github.com/carloscuesta/carloscuesta.me) - The source of my website 🌍
-
-*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-
-*   [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
-
-*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
-
-*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-
-*   [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-
-*   [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card) - 流光卡片API
-
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-
-*   [tonngw/raycast-extensions](https://github.com/tonngw/raycast-extensions) - Everything you need to extend Raycast.
-
-*   [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
-
-*   [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
-
-*   [cronhub/crontab](https://github.com/cronhub/crontab) - ⏰   Cron expression generator
-
-*   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
-
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
-
-*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
-
-*   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-
-*   [tisfeng/Raycast-Easydict](https://github.com/tisfeng/Raycast-Easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
-
-*   [roojay/bobplugin-google-translate](https://github.com/roojay/bobplugin-google-translate) -  Bob 的一个Google 翻译插件
-
-*   [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
-
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-
-*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
-
-*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-
-*   [AmruthPillai/ResumeOnTheWeb](https://github.com/AmruthPillai/ResumeOnTheWeb) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
-
-*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-
-*   [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-
-*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
-
-*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
-
-*   [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [zooltd/leetcode2acwing](https://github.com/zooltd/leetcode2acwing) - a Violentmonkey script that redirects you to AcWing solution site from LeetCode problem site
-
-*   [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党零基础转码笔记
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 
 ## Kotlin
 
