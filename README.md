@@ -288,7 +288,7 @@
 
 ## miscellaneous
 
-*   [lzA6/Prompt-APP-optimization](https://github.com/lzA6/Prompt-APP-optimization) - 面向exe、apk、等等所有通用项目审查优化的提示词优化
+*   [lzA6/Prompt-APP-optimization](https://github.com/lzA6/Prompt-APP-optimization) - 面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）
 
 *   [meituan-longcat/LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat) -
 
