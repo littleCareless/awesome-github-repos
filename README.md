@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [C++](#c)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -41,6 +41,44 @@
 *   [Vim Script](#vim-script)
 *   [Smarty](#smarty)
 *   [V](#v)
+
+## C++
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86\_64 servers, websocket server/client, support 12 programming languages
+
+*   [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and <1.5 s latency.
+
+*   [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+
+*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+
+*   [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+
+*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+
+*   [Doris-duo/CarLife-MD-Lib](https://github.com/Doris-duo/CarLife-MD-Lib) - Implement  CarLife protocol in MD devices
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [skywind3000/images](https://github.com/skywind3000/images) - Static Page
+
+*   [StaticScript/StaticScript](https://github.com/StaticScript/StaticScript) - A new statically typed programming language, syntactically like TypeScript.
+
+*   [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 
 ## Python
 
@@ -188,7 +226,7 @@
 
 *   [zai-org/GLM-Edge](https://github.com/zai-org/GLM-Edge) - GLM Series Edge Models
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
@@ -249,42 +287,6 @@
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-## C++
-
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86\_64 servers, websocket server/client, support 12 programming languages
-
-*   [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and <1.5 s latency.
-
-*   [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-
-*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-
-*   [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-
-*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
-
-*   [Doris-duo/CarLife-MD-Lib](https://github.com/Doris-duo/CarLife-MD-Lib) - Implement  CarLife protocol in MD devices
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [skywind3000/images](https://github.com/skywind3000/images) - Static Page
-
-*   [StaticScript/StaticScript](https://github.com/StaticScript/StaticScript) - A new statically typed programming language, syntactically like TypeScript.
-
-*   [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 
 ## miscellaneous
 
@@ -1723,8 +1725,6 @@
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
 *   [woai3c/front-end-engineering-demo](https://github.com/woai3c/front-end-engineering-demo) - 前端工程化 demo
-
-*   [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 
 ## Shell
 
