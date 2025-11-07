@@ -700,7 +700,7 @@
 
 *   [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
-*   [epicenter-md/epicenter](https://github.com/epicenter-md/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+*   [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 
 *   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 
@@ -1107,6 +1107,8 @@
 *   [sheinsight/shineout](https://github.com/sheinsight/shineout) - 高性能 React 组件库
 
 *   [07akioni/vueuc](https://github.com/07akioni/vueuc) - Util Components for Vue
+
+*   [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
 
 *   [pikax/vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
 
@@ -1627,8 +1629,6 @@
 *   [liulinboyi/simple-htmlparser](https://github.com/liulinboyi/simple-htmlparser) - 简单的HTMLparser和AST还原到HTML
 
 *   [jiangtao/vue-minder](https://github.com/jiangtao/vue-minder) - Vue minder based on baidu minder, Support Vue1.x Vue.2x ✨If you like it, Please star❤
-
-*   [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
 
 *   [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 
