@@ -418,7 +418,7 @@
 
 *   [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 
-*   [TencentCloudBase/CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) - 💥 Go from AI prompt to live app in one click. CloudBase AI ToolKit is the bridge that connects your AI IDE (Cursor, Copilot, etc.) directly to Tencent CloudBase. 💻 AI 编程，一键上线。  CloudBase AI ToolKit 是连接 AI IDE (Cursor, Copilot 等) 与腾讯云 CloudBase 的桥梁，让你的 AI 应用即刻上线。
+*   [TencentCloudBase/CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) - Connect CloudBase to your AI Agent. Go from AI prompt to live app in one click. CloudBase AI ToolKit is the bridge that connects your AI IDE directly to CloudBase. 连接 CloudBase 与您的 AI Agent。从 AI 提示词变为生产级应用。CloudBase AI ToolKit 是连接您的 AI IDE 与 CloudBase 的桥梁。
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
@@ -1288,7 +1288,7 @@
 
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
-*   [yisar/eac](https://github.com/yisar/eac) - Easy-amazing Compiler
+*   [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -1928,7 +1928,7 @@
 
 *   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 *   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
 
