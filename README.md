@@ -469,8 +469,6 @@
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
 *   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 
 *   [alovajs/devtools](https://github.com/alovajs/devtools) - Editor devtools for alova.js
@@ -671,7 +669,7 @@
 
 *   [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 
-*   [works-yuri/wcer](https://github.com/works-yuri/wcer) - Webpack plugin to enable reloading while developing Chrome extensions.
+*   [works-yura/wcer](https://github.com/works-yura/wcer) - Webpack plugin to enable reloading while developing Chrome extensions.
 
 *   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 
@@ -891,7 +889,7 @@
 
 *   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
-*   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+*   [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 *   [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 
@@ -1333,6 +1331,8 @@
 
 *   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 
 *   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -1595,7 +1595,7 @@
 
 *   [course-dasheng/fe-algorithm](https://github.com/course-dasheng/fe-algorithm) - 前端啃算法，一次性解决前端工程师的算法学习问题
 
-*   [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 高性能、企业级、现代化的 React 权限管理系统，支持多角色、多端适配、动态权限、自动化 E2E、主题切换等特性，适合中大型管理后台、SaaS 平台、数据可视化等多种场景。
+*   [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
 
 *   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 
