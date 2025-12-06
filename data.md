@@ -648,7 +648,7 @@
 
 *   [jogeen/StopCoding](https://github.com/jogeen/StopCoding) - Idea防沉迷插件，关爱程序员健康。设置每工作多少分钟，强制休息。Idea anti addiction plug-in, care for the health of programmers. Set the number of minutes per work and force the rest.
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 
 *   [cosen1024/community](https://github.com/cosen1024/community) - 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。
 
