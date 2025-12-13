@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Java](#java)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -30,13 +31,18 @@
 *   [VimL](#viml)
 *   [Markdown](#markdown)
 *   [Svelte](#svelte)
-*   [PHP](#php)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Roff](#roff)
 *   [Makefile](#makefile)
 *   [Stylus](#stylus)
 *   [Julia](#julia)
+
+## PHP
+
+*   [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI、Gemini、Claude等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
+
+*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 
 ## Java
 
@@ -358,7 +364,7 @@
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 
@@ -424,7 +430,7 @@
 
 *   [poperigby/gruvbox-dark-yazi](https://github.com/poperigby/gruvbox-dark-yazi) - A Gruvbox Dark theme for Yazi
 
-*   [spring2go/cs\_study\_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+*   [bootcs-cn/cs\_study\_plan](https://github.com/bootcs-cn/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 
 *   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 
@@ -581,8 +587,6 @@
 *   [CodingDocs/advanced-programmer](https://github.com/CodingDocs/advanced-programmer) - 专业程序员修炼之路。
 
 *   [fuhmmin/it-ebooks-cn](https://github.com/fuhmmin/it-ebooks-cn) - 计算机电子书pdf整理
-
-*   [eson15/MyJavaStorehouse](https://github.com/eson15/MyJavaStorehouse) - 我的Java知识小仓库
 
 ## JavaScript
 
@@ -1075,10 +1079,6 @@
 ## Svelte
 
 *   [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
-
-## PHP
-
-*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 
 ## C\#
 
