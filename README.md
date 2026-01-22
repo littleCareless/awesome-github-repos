@@ -3,8 +3,8 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [Kotlin](#kotlin)
 *   [Python](#python)
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Dart](#dart)
@@ -43,6 +43,16 @@
 *   [V](#v)
 
 ## TypeScript
+
+*   [thecodacus/OpenWebContainer](https://github.com/thecodacus/OpenWebContainer) - A browser-based virtual container runtime that enables server-like JavaScript execution environments directly in the browser. OpenWebContainer provides a sandboxed environment with a virtual file system, process management, and shell capabilities, making it possible to run server-side JavaScript applications entirely in the browser.
+
+*   [Safphere/opencowork](https://github.com/Safphere/opencowork) - open cowork - 你的数字同事
+
+*   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+
+*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的聊天导出和年度报告应用
+
+*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
@@ -212,7 +222,7 @@
 
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
 
-*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, Rust, Erlang, Ruby. Redis, RabbitMQ. Elasticsearch. DNS Server, FTP Server
+*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight, native development environment for Windows, macOS & Linux. Run local server, PHP, Node.js, Python & Databases without Docker. The faster, modular alternative to XAMPP
 
 *   [FatDoge/receipt-generator](https://github.com/FatDoge/receipt-generator) -
 
@@ -712,21 +722,9 @@
 
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 
-*   [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
-
-## Kotlin
-
-*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
-
-*   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
-
-*   [angcyo/DslTabLayout](https://github.com/angcyo/DslTabLayout) - :hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等
-
-*   [Coooolfan/XiaomiAlbumSyncer](https://github.com/Coooolfan/XiaomiAlbumSyncer) - 全量/增量/定时 下载小米云服务中的 相册/录音 到本地
-
-*   [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm) - :chicken::basketball:JetpackMvvm 是一个基于 Jetpack 架构组件构建的 Android MVVM 快速开发框架，旨在帮助开发者快速搭建高质量、可维护、可扩展的应用。
-
 ## Python
+
+*   [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capabilities.
 
 *   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
 
@@ -970,7 +968,17 @@
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
-*   [coco369/knowledge](https://github.com/coco369/knowledge) - python学习之路，就是不断累积，不断学习的过程。该知识库讲解了Python Web框架内容，如Django、DjangoRestFramework、tornado、flask，redis，MySQL，MongoDB，docker，Vue等内容
+## Kotlin
+
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+
+*   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+
+*   [angcyo/DslTabLayout](https://github.com/angcyo/DslTabLayout) - :hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等
+
+*   [Coooolfan/XiaomiAlbumSyncer](https://github.com/Coooolfan/XiaomiAlbumSyncer) - 全量/增量/定时 下载小米云服务中的 相册/录音 到本地
+
+*   [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm) - :chicken::basketball:JetpackMvvm 是一个基于 Jetpack 架构组件构建的 Android MVVM 快速开发框架，旨在帮助开发者快速搭建高质量、可维护、可扩展的应用。
 
 ## JavaScript
 
@@ -1499,10 +1507,6 @@
 *   [xiaoyao316/vuex-mini](https://github.com/xiaoyao316/vuex-mini) - vuex源码简化版，带完整注释，简单易懂。
 
 *   [ezshine/vscode-rainbow-fart-waifu](https://github.com/ezshine/vscode-rainbow-fart-waifu) - a virtual lover will accompany your programing
-
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-
-*   [staven630/blog](https://github.com/staven630/blog) - 旧书常读出新意,俗见尽弃作雅人！
 
 ## Shell
 
@@ -2198,8 +2202,6 @@
 
 *   [H5-Dooring/H5-Dooring-Vue](https://github.com/H5-Dooring/H5-Dooring-Vue) - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
 
-*   [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
-
 ## C++
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -2457,8 +2459,6 @@
 *   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 
 *   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-
-*   [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
 
 ## SCSS
 
