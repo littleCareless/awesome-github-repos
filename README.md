@@ -86,6 +86,8 @@
 
 *   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
 
+*   [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) -  JSON-driven multi-agent development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution
+
 *   [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 
 *   [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -222,7 +224,7 @@
 
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
 
-*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight, native development environment for Windows, macOS & Linux. Run local server, PHP, Node.js, Python & Databases without Docker. The faster, modular alternative to XAMPP
+*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS & Linux. Run local server, PHP, Node.js, Python & Databases without Docker. The faster, modular alternative to XAMPP
 
 *   [FatDoge/receipt-generator](https://github.com/FatDoge/receipt-generator) -
 
@@ -751,8 +753,6 @@
 *   [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
 
 *   [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-
-*   [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) -  JSON-driven multi-agent development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution
 
 *   [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 
@@ -1684,7 +1684,7 @@
 
 *   [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
 
-*   [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack, Empowering Everyone to Build Products with AI | Live at: www.vibevibe.cn   ；首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
+*   [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn
 
 *   [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 
