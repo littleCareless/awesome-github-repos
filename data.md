@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -36,6 +36,40 @@
 *   [Makefile](#makefile)
 *   [Stylus](#stylus)
 *   [Julia](#julia)
+
+## Jupyter Notebook
+
+*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+
+*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
+
+*   [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/
+
+*   [chunhuizhang/modern\_ai\_for\_beginners](https://github.com/chunhuizhang/modern_ai_for_beginners) - modern AI for beginners
+
+*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+*   [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+
+*   [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+
+*   [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) - 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/
+
+*   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+
+*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+
+*   [eai2x/Face-Recognition-Class-Attendance-System](https://github.com/eai2x/Face-Recognition-Class-Attendance-System) - class attendance software
+
+*   [datawhalechina/team-learning-program](https://github.com/datawhalechina/team-learning-program) - 主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。
+
+*   [datawhalechina/team-learning-cv](https://github.com/datawhalechina/team-learning-cv) - 主要存储Datawhale组队学习中“计算机视觉”方向的资料。
+
+*   [fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course) - 温州大学《机器学习》课程资料（代码、课件等）
 
 ## JavaScript
 
@@ -265,39 +299,9 @@
 
 *   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
 
-## Jupyter Notebook
-
-*   [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/
-
-*   [chunhuizhang/modern\_ai\_for\_beginners](https://github.com/chunhuizhang/modern_ai_for_beginners) - modern AI for beginners
-
-*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-
-*   [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
-
-*   [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-
-*   [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) - 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/
-
-*   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树
-
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-
-*   [eai2x/Face-Recognition-Class-Attendance-System](https://github.com/eai2x/Face-Recognition-Class-Attendance-System) - class attendance software
-
-*   [datawhalechina/team-learning-program](https://github.com/datawhalechina/team-learning-program) - 主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。
-
-*   [datawhalechina/team-learning-cv](https://github.com/datawhalechina/team-learning-cv) - 主要存储Datawhale组队学习中“计算机视觉”方向的资料。
-
-*   [fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course) - 温州大学《机器学习》课程资料（代码、课件等）
-
 ## TypeScript
 
-*   [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
+*   [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 
 *   [DevAgentForge/Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork) - OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
 
@@ -631,8 +635,6 @@
 
 *   [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
 
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
 ## Shell
 
 *   [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
@@ -804,8 +806,6 @@
 *   [wao3/flow](https://github.com/wao3/flow) - 一个简单的社区系统
 
 *   [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
-
-*   [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 
 ## PHP
 
