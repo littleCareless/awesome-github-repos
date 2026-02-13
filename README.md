@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [Shell](#shell)
+*   [Batchfile](#batchfile)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
@@ -27,7 +28,6 @@
 *   [Jinja](#jinja)
 *   [Roff](#roff)
 *   [Ruby](#ruby)
-*   [Batchfile](#batchfile)
 *   [Svelte](#svelte)
 *   [Fluent](#fluent)
 *   [CSS](#css)
@@ -44,7 +44,83 @@
 *   [Smarty](#smarty)
 *   [V](#v)
 
+## Shell
+
+*   [justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+
+*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+*   [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+
+*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26+
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
+
+*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+
+*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
+
+*   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
+
+*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
+
+*   [coding/WebIDE](https://github.com/coding/WebIDE) - Coding WebIDE Community Edition
+
+*   [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
+
+*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
+
+*   [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+
+*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+
 ## TypeScript
+
+*   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
+*   [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+
+*   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
@@ -115,8 +191,6 @@
 *   [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching)
 
 *   [2mawi2/schaltwerk](https://github.com/2mawi2/schaltwerk) - The IDE without editor
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
@@ -316,7 +390,7 @@
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 
@@ -794,6 +868,8 @@
 
 ## Python
 
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+
 *   [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -1060,73 +1136,11 @@
 
 *   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
-## Shell
+## Batchfile
 
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+*   [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-
-*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
-
-*   [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-
-*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26+
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
-
-*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-
-*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-
-*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
-
-*   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
-
-*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
-
-*   [coding/WebIDE](https://github.com/coding/WebIDE) - Coding WebIDE Community Edition
-
-*   [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
-
-*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
-
-*   [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-
-*   [snail007/proxy\_admin\_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## JavaScript
 
@@ -1692,10 +1706,6 @@
 
 *   [bluezhan/vue2](https://github.com/bluezhan/vue2) - 【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。
 
-*   [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-
-*   [BUPTlhuanyu/ReactNote](https://github.com/BUPTlhuanyu/ReactNote) - React相关库的源码分析
-
 ## Go
 
 *   [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
@@ -1748,6 +1758,8 @@
 
 *   [ltaoo/wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 
+*   [wujunwei928/parse-video](https://github.com/wujunwei928/parse-video) - Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
+
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 
 *   [cj1128/google-font-downloader](https://github.com/cj1128/google-font-downloader) - 🎉 Google Font下载器，根据参数或样式表下载字体到本地
@@ -1795,8 +1807,6 @@
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 *   [yangwenmai/learning-golang](https://github.com/yangwenmai/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
-
-*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 
 ## Dockerfile
 
@@ -2138,8 +2148,6 @@
 
 *   [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 
-*   [kujian/You-Dont-Know-JS](https://github.com/kujian/You-Dont-Know-JS) - You-Dont-Know-JS中文版
-
 ## Vue
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
@@ -2270,8 +2278,6 @@
 
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
-*   [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
-
 ## Rust
 
 *   [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
@@ -2284,9 +2290,9 @@
 
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
-*   [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
@@ -2564,8 +2570,6 @@
 
 *   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 
-*   [wujunwei928/parse-video](https://github.com/wujunwei928/parse-video) - Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
-
 *   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -2637,10 +2641,6 @@
 *   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-
-## Batchfile
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## Svelte
 
