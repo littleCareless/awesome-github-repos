@@ -218,7 +218,7 @@
 
 *   [TencentCloudBase/CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP) -    CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app.
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
 *   [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown). Working in Progress
 
@@ -2416,7 +2416,7 @@
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
-*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
+*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 
 ## C\#
 
