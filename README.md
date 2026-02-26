@@ -46,6 +46,8 @@
 
 ## TypeScript
 
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
 *   [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI\&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI\&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。
 
 *   [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
@@ -129,6 +131,8 @@
 *   [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching)
 
 *   [2mawi2/schaltwerk](https://github.com/2mawi2/schaltwerk) - The IDE without editor
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
@@ -228,9 +232,7 @@
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
-*   [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
-
-*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+*   [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 *   [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 
@@ -852,6 +854,8 @@
 
 *   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
 
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
 *   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
@@ -916,7 +920,7 @@
 
 *   [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
 
-*   [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+*   [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
@@ -1018,6 +1022,8 @@
 
 *   [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+
 *   [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 
 *   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
@@ -1049,8 +1055,6 @@
 *   [Goodnameisfordoggy/JD-AutomatedTools](https://github.com/Goodnameisfordoggy/JD-AutomatedTools) - 👏JD personal order information crawling. | 京东个人订单信息爬取。👏 JD order automation evaluation, are given five-star praise, picture and text. | 京东订单自动化评价，均给予五星好评以及图文。👏 Get cookies after login jd.com. | 登录京东后获取cookie。
 
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Continuously extract the information you need from specified sources
 
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
@@ -1388,7 +1392,7 @@
 
 ## JavaScript
 
-*   [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - A self-hosted, real-time port monitoring and discovery tool.
+*   [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
 
 *   [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) -
 
@@ -1440,13 +1444,13 @@
 
 *   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
+*   [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Continuously extract the information you need from specified sources
+
 *   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 
 *   [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 
 *   [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 *   [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 本文详细分析了 Github Copilot 这个基于机器学习的代码自动补全工具的实现原理。作者通过逆向工程的方式,深入探索了 Copilot 的核心逻辑,包括代码提示的入口、获取提示的核心方法、以及相关的缓存策略、实验特性等。
 
@@ -2280,8 +2284,6 @@
 
 *   [zenany/weekly](https://github.com/zenany/weekly) - 汇总平时看到的好文章...
 
-*   [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
-
 ## Rust
 
 *   [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
@@ -2295,8 +2297,6 @@
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
