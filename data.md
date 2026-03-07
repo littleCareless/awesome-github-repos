@@ -438,7 +438,7 @@
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
@@ -518,7 +518,7 @@
 
 *   [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
 
 *   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 
