@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Dart](#dart)
@@ -13,7 +14,6 @@
 *   [Go](#go)
 *   [Rust](#rust)
 *   [Zig](#zig)
-*   [HTML](#html)
 *   [Java](#java)
 *   [PHP](#php)
 *   [Elixir](#elixir)
@@ -45,6 +45,74 @@
 *   [Vim Script](#vim-script)
 *   [Smarty](#smarty)
 *   [V](#v)
+
+## HTML
+
+*   [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
+
+*   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
+
+*   [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
+
+*   [vigorX777/product-design-system](https://github.com/vigorX777/product-design-system) - 面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统
+
+*   [kongkongyo/Ai-Markmap](https://github.com/kongkongyo/Ai-Markmap) - 一个基于 Markmap 的在线AI思维导图工具，可将文本或Markdown一键转换为精美的思维导图，支持自定义API和导出PNG\&SVG。  A web-based AI mind map tool using Markmap. Instantly converts text or Markdown into beautiful mind maps, supporting custom APIs and PNG\&SVG export.
+
+*   [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [vscode-elements/elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions
+
+*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
+
+*   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
+
+*   [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
+
+*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+*   [liyupi/free-programming-resources](https://github.com/liyupi/free-programming-resources) - 2026 年最新的免费编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java / Python / C++ / JavaScript / TypeScript / Golang / 前端 / 后端 / AI大模型应用开发 / AI Agent开发等）的学习路线、零基础入门教程、项目实战教程、经典编程书籍、面试题合集、求职经验分享、简历模板、开源项目推荐、开发工具推荐、实用技术资源等，对程序员和计算机专业学生非常有帮助！⭐️ 学编程，先收藏这个仓库！
+
+*   [tc39/proposal-extensions](https://github.com/tc39/proposal-extensions) - Extensions proposal for ECMAScript
+
+*   [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
+
+*   [king-hcj/king-hcj.github.io](https://github.com/king-hcj/king-hcj.github.io) - 前端精华、前端高级进阶、让前端不枯燥的有趣技巧分享。
+
+*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
+
+*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+
+*   [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
+
+*   [hulin32/design-patterns-by-php](https://github.com/hulin32/design-patterns-by-php) - 《大话设计模式》php版本, https://design-patterns-by-php.hulin.ink
+
+*   [phodal/fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [tc39/proposal-nullish-coalescing](https://github.com/tc39/proposal-nullish-coalescing) - Nullish coalescing proposal x ?? y
+
+*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
+
+*   [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
+
+*   [wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
+
+*   [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
+
+*   [liyuechun/JavaScript30-liyuechun](https://github.com/liyuechun/JavaScript30-liyuechun) - 每天一个JavaScript项目挑战，30天玩转JavaScript,免费视频：http://www.kongyixueyuan.com
+
+*   [zwc456baby/file-proxy](https://github.com/zwc456baby/file-proxy) - 文件代下载服务，github文件加速下载，支持任意文件格式。支持命令行代下，支持子节点权重负载均衡。
+
+*   [biaodigit/JavaScriptAlgorithms](https://github.com/biaodigit/JavaScriptAlgorithms) - Javascript 数据结构算法
 
 ## TypeScript
 
@@ -678,7 +746,7 @@
 
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
-*   [hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
+*   [esmadrider/deno-tutorial](https://github.com/esmadrider/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
 
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
@@ -2080,7 +2148,7 @@
 
 *   [nashsu/Viral\_Writer\_Skill](https://github.com/nashsu/Viral_Writer_Skill) -  基于 11 个内容洞见维度的自媒体创作 Skill，适用于各种智能体  给它一个主题，它给你一篇完整的文章、5 个备选标题、以及每张配图的生成 prompt。
 
-*   [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+*   [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 
 *   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年4月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
@@ -2570,7 +2638,7 @@
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-*   [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+*   [fastrepl/char](https://github.com/fastrepl/char) - AI daily notes that remembers everything and acts on your behalf
 
 *   [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
 
@@ -2629,72 +2697,6 @@
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## HTML
-
-*   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
-
-*   [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
-
-*   [vigorX777/product-design-system](https://github.com/vigorX777/product-design-system) - 面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统
-
-*   [kongkongyo/Ai-Markmap](https://github.com/kongkongyo/Ai-Markmap) - 一个基于 Markmap 的在线AI思维导图工具，可将文本或Markdown一键转换为精美的思维导图，支持自定义API和导出PNG\&SVG。  A web-based AI mind map tool using Markmap. Instantly converts text or Markdown into beautiful mind maps, supporting custom APIs and PNG\&SVG export.
-
-*   [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [vscode-elements/elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions
-
-*   [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-
-*   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
-
-*   [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
-
-*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-
-*   [liyupi/free-programming-resources](https://github.com/liyupi/free-programming-resources) - 2026 年最新的免费编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java / Python / C++ / JavaScript / TypeScript / Golang / 前端 / 后端 / AI大模型应用开发 / AI Agent开发等）的学习路线、零基础入门教程、项目实战教程、经典编程书籍、面试题合集、求职经验分享、简历模板、开源项目推荐、开发工具推荐、实用技术资源等，对程序员和计算机专业学生非常有帮助！⭐️ 学编程，先收藏这个仓库！
-
-*   [tc39/proposal-extensions](https://github.com/tc39/proposal-extensions) - Extensions proposal for ECMAScript
-
-*   [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
-
-*   [king-hcj/king-hcj.github.io](https://github.com/king-hcj/king-hcj.github.io) - 前端精华、前端高级进阶、让前端不枯燥的有趣技巧分享。
-
-*   [57code/vue-interview](https://github.com/57code/vue-interview) - 总结前端面试中经典的vue相关题目，分析最佳回答策略。加面试群关注公众号”村长学前端“。
-
-*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-*   [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
-
-*   [hulin32/design-patterns-by-php](https://github.com/hulin32/design-patterns-by-php) - 《大话设计模式》php版本, https://design-patterns-by-php.hulin.ink
-
-*   [phodal/fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [tc39/proposal-nullish-coalescing](https://github.com/tc39/proposal-nullish-coalescing) - Nullish coalescing proposal x ?? y
-
-*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
-
-*   [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
-
-*   [wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
-
-*   [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
-
-*   [liyuechun/JavaScript30-liyuechun](https://github.com/liyuechun/JavaScript30-liyuechun) - 每天一个JavaScript项目挑战，30天玩转JavaScript,免费视频：http://www.kongyixueyuan.com
-
-*   [zwc456baby/file-proxy](https://github.com/zwc456baby/file-proxy) - 文件代下载服务，github文件加速下载，支持任意文件格式。支持命令行代下，支持子节点权重负载均衡。
-
-*   [biaodigit/JavaScriptAlgorithms](https://github.com/biaodigit/JavaScriptAlgorithms) - Javascript 数据结构算法
 
 ## Java
 
@@ -2909,8 +2911,6 @@
 *   [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 
 *   [xusenlin/vue-element-ui-admin](https://github.com/xusenlin/vue-element-ui-admin) - :maple\_leaf:  一个基于Vue 3(ScriptSetup) + TS + Vite + ElementPlus + Pinia + VueRouter + Axios的后台模板，做了目录结构的整理和常用方法的封装，开箱即用 :)
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 ## Batchfile
 
