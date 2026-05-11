@@ -36,7 +36,7 @@
 
 ## JavaScript
 
-*   [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+*   [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 
 *   [pqrs-org/KE-complex\_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex\_modifications rules
 
@@ -964,7 +964,7 @@
 
 ## SCSS
 
-*   [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+*   [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 
 *   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
