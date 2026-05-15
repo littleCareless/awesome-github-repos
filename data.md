@@ -646,7 +646,7 @@
 
 *   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 
-*   [cursor/community-plugins](https://github.com/cursor/community-plugins) - Find rules and MCP servers
+*   [cursor/community-plugins](https://github.com/cursor/community-plugins) - Plugins from the Cursor community
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
