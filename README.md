@@ -139,7 +139,7 @@
 
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
-*   [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+*   [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 
 *   [leigest519/OpenGame](https://github.com/leigest519/OpenGame) - OpenGame: Open Agentic Coding for Games
 
@@ -166,6 +166,8 @@
 *   [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 
 *   [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+
+*   [jiji262/ai-agent-021](https://github.com/jiji262/ai-agent-021) - ai-agent-021：Build AI Agent from 0 to 1
 
 *   [Ju99ernaut/grapesjs-tailwind](https://github.com/Ju99ernaut/grapesjs-tailwind) - Tailwind integration for grapesjs
 
@@ -1067,7 +1069,7 @@
 
 *   [razvandimescu/numa](https://github.com/razvandimescu/numa) - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 
@@ -2133,8 +2135,6 @@
 
 *   [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
 
-*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 现在这个 repo 它已转型为 cxuan-ai-labs：一个普通开发者在 AI 时代的个人实验室，用来记录 AI 文章、工具资源、Agent 实验、模型观察、踩坑复盘，以及一些未必成熟但真实有趣的 AI 作品。旧 Java 内容已归档保留，新主线转向 AI。
-
 *   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 
 *   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -2863,8 +2863,6 @@
 
 *   [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 
-*   [jiji262/ai-agent-021](https://github.com/jiji262/ai-agent-021) - ai-agent-021：Build AI Agent from 0 to 1
-
 *   [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 
 *   [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -3274,6 +3272,8 @@
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 *   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
+
+*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 现在这个 repo 它已转型为 cxuan-ai-labs：一个普通开发者在 AI 时代的个人实验室，用来记录 AI 文章、工具资源、Agent 实验、模型观察、踩坑复盘，以及一些未必成熟但真实有趣的 AI 作品。旧 Java 内容已归档保留，新主线转向 AI。
 
 *   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 
