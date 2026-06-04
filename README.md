@@ -789,6 +789,8 @@
 
 *   [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
 
+*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+
 *   [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 
 *   [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
@@ -1219,13 +1221,11 @@
 
 *   [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 
-*   [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
+*   [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 
 *   [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 
 *   [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-
-*   [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
 *   [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
 
@@ -1381,13 +1381,11 @@
 
 *   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 
-*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
-
 *   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 
 *   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 
@@ -2225,6 +2223,8 @@
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
+*   [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+
 *   [Coooolfan/onlyboxes](https://github.com/Coooolfan/onlyboxes) - Code Execution Sandbox Platform Solution for Individuals and Small Teams with MCP
 
 *   [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
@@ -2607,7 +2607,7 @@
 
 *   [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
-*   [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+*   [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
 
 *   [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 
@@ -2731,7 +2731,7 @@
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-*   [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
+*   [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -2820,6 +2820,8 @@
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
+
+*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 现在这个 repo 它已转型为 cxuan-ai-labs：一个普通开发者在 AI 时代的个人实验室，用来记录 AI 文章、工具资源、Agent 实验、模型观察、踩坑复盘，以及一些未必成熟但真实有趣的 AI 作品。旧 Java 内容已归档保留，新主线转向 AI。
 
 *   [coco369/knowledge](https://github.com/coco369/knowledge) - python学习之路，就是不断累积，不断学习的过程。该知识库讲解了Python Web框架内容，如Django、DjangoRestFramework、tornado、flask，redis，MySQL，MongoDB，docker，Vue等内容
 
@@ -3272,8 +3274,6 @@
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 *   [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
-
-*   [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer) - 现在这个 repo 它已转型为 cxuan-ai-labs：一个普通开发者在 AI 时代的个人实验室，用来记录 AI 文章、工具资源、Agent 实验、模型观察、踩坑复盘，以及一些未必成熟但真实有趣的 AI 作品。旧 Java 内容已归档保留，新主线转向 AI。
 
 *   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 
