@@ -29,7 +29,6 @@
 *   [Astro](#astro)
 *   [Tree-sitter Query](#tree-sitter-query)
 *   [Dockerfile](#dockerfile)
-*   [VimL](#viml)
 *   [Markdown](#markdown)
 *   [Svelte](#svelte)
 *   [C#](#c-2)
@@ -1044,6 +1043,8 @@
 
 *   [overmind1980/oeasy-vim-tutorial](https://github.com/overmind1980/oeasy-vim-tutorial) - 这是oeasy制作的的一套关于vim的教程 可以做实验 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。
 
+*   [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+
 *   [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1071,10 +1072,6 @@
 *   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-
-## VimL
-
-*   [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 
 ## Markdown
 
