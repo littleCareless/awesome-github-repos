@@ -50,9 +50,11 @@
 
 ## TypeScript
 
+*   [SubBoost/subboost](https://github.com/SubBoost/subboost) - Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。
+
 *   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 
-*   [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex
+*   [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex and enjoy 2x rate limits :)
 
 *   [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 
@@ -96,7 +98,7 @@
 
 *   [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports.
 
-*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
 *   [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 
@@ -896,6 +898,8 @@
 
 *   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+
 *   [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -997,8 +1001,6 @@
 *   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 
 *   [vueComponent/use](https://github.com/vueComponent/use) -
-
-*   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ## Kotlin
 
@@ -2853,8 +2855,6 @@
 *   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
 *   [dillonchanis/vue-error-boundary](https://github.com/dillonchanis/vue-error-boundary) - A reusable error boundary component for catching JavaScript errors and displaying fallback UIs.
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 *   [jd-opensource/nutui](https://github.com/jd-opensource/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 
